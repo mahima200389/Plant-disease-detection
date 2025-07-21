@@ -4,6 +4,6 @@ numpy==1.23.5
 matplotlib==3.7.2
 seaborn==0.13.0
 pandas==2.1.0
-streamlit
 librosa==0.10.1
-opencv-python
+streamlit==1.25.0
+opencv-python==4.9.0.80
