@@ -8,3 +8,5 @@ librosa==0.10.1
 streamlit==1.19.0
 opencv-python==4.9.0.80
 protobuf==3.19.6
+altair==4.2.2
+
