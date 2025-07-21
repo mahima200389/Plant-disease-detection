@@ -1,14 +1,4 @@
-# Ignore model files and large outputs
-*.h5
-*.keras
-*.pt
-*.ckpt
-*.json
-*.csv
-*.jpeg
-*.jpg
-*.png
-*.mp4
+
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
